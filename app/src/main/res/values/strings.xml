@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UtkCalci</string>
+    <string name="intromain">Welcome to UtkCalci</string>
+    <string name="basic">Basic Calculator</string>
+    <string name="lh">LCM/HCF(2 numbers)</string>
+    <string name="Fact">Prime factorization</string>
+    <string name="Intrest">Interest calci</string>
+    <string name="n1_n2">Power(n1^n2)</string>
+    <string name="rem">Remainder</string>
+    <string name="mult">X</string>
+    <string name="div">/</string>
+    <string name="subs">-</string>
+    <string name="Add">+</string>
+    <string name="number1">Enter First number</string>
+    <string name="number2">Enter second number</string>
+    <string name="result">Result</string>
+    <string name="LHA">LCM/HCF/AREA</string>
+    <string name="lha2">Enter number/base/length</string>
+    <string name="lha1">Enter number/height/width</string>
+    <string name="rect">Area(Rect)</string>
+    <string name="tri">Area(Triangle)</string>
+    <string name="Lcm">Find LCM</string>
+    <string name="Hcf">Find HCF</string>
+    <string name="sici">S.I. / C.I.</string>
+    <string name="rate">Enter Rate(per annum)</string>
+    <string name="time">Time(in years)</string>
+    <string name="resultint">Amount</string>
+    <string name="princ">Principal Balance</string>
+    <string name="si">S.I.</string>
+    <string name="ci">C.I.</string>
+    <string name="factintro">Factorial and Factorization</string>
+    <string name="number">Enter number</string>
+    <string name="factoril">Factorial(n!)</string>
+    <string name="cult">Prime factorize</string>
+</resources>
